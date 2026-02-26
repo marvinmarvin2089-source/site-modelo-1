@@ -9,7 +9,7 @@ O projeto foi desenvolvido utilizando HTML, CSS e JavaScript, com foco em design
 ## 🚀 Demonstração
 
 🔗 Acesse o projeto online  
-https://SEU-LINK-AQUI
+ https://marvinmarvin2089-source.github.io/site-modelo-1/
 
 ---
 
